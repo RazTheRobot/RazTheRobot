@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RazTheRobot
-- 👀 I’m interested in character design, monster design, and robots.
-- 🌱 I’m currently learning Java and looking to learn Python.
+- 👀 I’m interested in character design, game design, and robots.
+- 🌱 I’m currently learning Java, Python, Linux, and RPGMaker.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me: Email or message.
 - 😄 Pronouns: He/They
